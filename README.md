@@ -1,5 +1,5 @@
 ### my-laravel-survival-kit
-Before any migration run kindly run these 4 to void frustrations:
+Before any migration run kindly run these 4 to avoid frustrations:
 1. php artisan cache:clear
 2. php artisan config:clear
 3. php artisan view:clear
